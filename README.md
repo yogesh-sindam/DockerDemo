@@ -15,7 +15,7 @@ Link: [What is Docker](https://www.docker.com/what-docker#/overview)
 Why do we need it?
 ------------------
 
-* Faster development process (using 3rd parties like PostgreSQL, Redis, Elasticsearch, whatever).
+* Faster development process (using 3rd parties like PostgreSQL, Redis, Elasticsearch, whatever)..
 * Handy application encapsulation (you can deliver your application in one piece).
 * Same behaviour on local machine / dev / stage / production servers.
 * Easy and clear monitoring.
