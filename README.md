@@ -1,7 +1,7 @@
 Docker workshop
 ================
 
-What is Docker?
+What is Docker??
 ---------------
 
 Docker is an **open-source** project that **automates** the **deployment** of applications inside software **containers**. It has very developed eco-system to make, distribute and handle containers. Also it’s very well documented.
